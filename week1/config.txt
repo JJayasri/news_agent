@@ -1,0 +1,6 @@
+Virtualization_Software: VirtualBox
+Version: 7.0.10 (latest stable)
+Host_OS: Windows 11
+Guest_OS: Kali Linux 2025.2
+Vulnerable_Machine: Metasploitable2
+Network: Host-only Adapter
